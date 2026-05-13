@@ -1,4 +1,20 @@
 {
   "hijri_offset": -1,
-  "updated_at": "2024-04-21"
+  "updated_at": "2026-05-13"
+  "hijri_year": 1447,
+  "year_start_gregorian": "2025-06-27",
+  "months": [
+    { "month_number": 1,  "month_name": "محرم",         "days": 30 },
+    { "month_number": 2,  "month_name": "صفر",          "days": 29 },
+    { "month_number": 3,  "month_name": "ربيع الأول",   "days": 30 },
+    { "month_number": 4,  "month_name": "ربيع الآخر",   "days": 30 },
+    { "month_number": 5,  "month_name": "جمادى الأولى", "days": 30 },
+    { "month_number": 6,  "month_name": "جمادى الآخرة", "days": 29 },
+    { "month_number": 7,  "month_name": "رجب",          "days": 30 },
+    { "month_number": 8,  "month_name": "شعبان",        "days": 29 },
+    { "month_number": 9,  "month_name": "رمضان",        "days": 30 },
+    { "month_number": 10, "month_name": "شوال",         "days": 29 },
+    { "month_number": 11, "month_name": "ذو القعدة",    "days": 29 },
+    { "month_number": 12, "month_name": "ذو الحجة",     "days": 30 }
+  ]
 }
