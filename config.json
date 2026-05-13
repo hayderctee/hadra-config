@@ -14,7 +14,7 @@
     { "month_number": 8,  "month_name": "شعبان",        "days": 29 },
     { "month_number": 9,  "month_name": "رمضان",        "days": 30 },
     { "month_number": 10, "month_name": "شوال",         "days": 29 },
-    { "month_number": 11, "month_name": "ذو القعدة",    "days": 29 },
-    { "month_number": 12, "month_name": "ذو الحجة",     "days": 30 }
+    { "month_number": 11, "month_name": "ذي القعدة",    "days": 29 },
+    { "month_number": 12, "month_name": "ذي الحجة",     "days": 30 }
   ]
 }
